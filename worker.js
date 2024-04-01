@@ -8,8 +8,8 @@ const CUSTOM_OPTIONS = {
   MUID: '',
   _U: '',
 
-  BYPASS_SERVER: '',
-  APIKEY: '',
+  BYPASS_SERVER: 'https://bypass.zklcdc.xyz',
+  APIKEY: 'sk-xxx',
   Go_Proxy_BingAI_BLANK_API_KEY: false,
 
   INFO: '',
